@@ -1,171 +1,257 @@
-<h1 align="center">Hi 👋 I'm Maria Larson</h1>
+<div align="center">
 
-<p align="center">
-  <b>B.S. Data Science Student</b><br>
-  Machine Learning • Artificial Intelligence • Statistics • Research
-</p>
+# Hi, I'm Maria Larson 👋
 
-<p align="center">
-  <i>Turning data into insights through machine learning, analytics, and research.</i>
-</p>
+### B.S. Data Science Student • AI/ML Fellow • Researcher • Tech & Science Writer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Machine+Learning+Student;Break+Through+Tech+AI+Fellow;National+AI+Competition+Winner;Published+Undergraduate+Researcher;Tech+%26+Science+Writer;Always+Learning..." />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN)
+
+[![The Metropolitan](https://img.shields.io/badge/The_Metropolitan-Tech_%26_Science_Writer-darkblue?style=for-the-badge)](https://themetropolitan.metrostate.edu/)
+
+[![YouTube](https://img.shields.io/badge/Insight_Talent_AI-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/4NGbAYW9_mU?si=N4A1cssiXEQoWNaE)
+
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.S. Data Science Student at Metropolitan State University
+I'm a **Data Science student at Metropolitan State University** pursuing a **Certificate in Intelligence & Security Analysis**.
 
-🤖 Interested in Machine Learning, AI, Data Science, and Analytics
+I'm passionate about building machine learning systems, conducting research, and communicating technical topics through writing. I enjoy transforming data into insights while exploring responsible AI, analytics, and emerging technologies.
 
-📊 Passionate about solving real-world problems with data
+## Interests
 
-🔬 Published Undergraduate Researcher
-
-🌱 Currently learning Deep Learning, Neural Networks, SQL, and Cloud ML
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📈 Statistics
+- 🔬 Research
+- 📝 Science & Technology Writing
+- 🛡️ Responsible AI
+- 🌎 AI Governance
 
 ---
 
-# ⭐ Featured Projects
+# 🏆 Highlights
 
-## 🏆 Insight Talent AI
-National AIS Student Competition Winning AI hiring platform focused on explainable and responsible AI.
+- 🥇 First Place — AIS Student Chapter Leadership Conference (EY AI Challenge)
+- 🤖 Break Through Tech AI/ML Fellow
+- 📄 Published Undergraduate Researcher
+- 📰 Tech & Science Writer — The Metropolitan
+- 🎤 Student Research Conference Presenter
+- 🎓 Certificate in Intelligence & Security Analysis (In Progress)
 
-**Tech:** Python • Flask • PostgreSQL • React • NLP • AI
+---
 
-➡️ **Repository:** https://github.com/YOURUSERNAME/INSIGHT-TALENT-AI
+# 🚀 Featured Projects
+
+## 🧠 Insight Talent AI
+
+Responsible AI hiring platform created for the **2026 AIS Student Chapter Leadership Conference**.
+
+### Features
+
+- Semantic resume matching
+- Explainable AI recommendations
+- Resume redaction
+- Fairness analysis
+- Audit logs
+- Responsible AI design
+
+**Stack**
+
+Python • Flask • PostgreSQL • React • TypeScript • NLP
+
+🎥 **Demo**
+
+https://youtu.be/4NGbAYW9_mU?si=N4A1cssiXEQoWNaE
 
 ---
 
 ## 🏠 Airbnb Price Classification
 
-Machine Learning model predicting Airbnb listing price categories using Logistic Regression and Neural Networks.
+Machine Learning classification project predicting Airbnb listing price categories.
 
-**Highlights**
+### Technologies
 
-- Data Cleaning
-- Feature Engineering
-- Logistic Regression
-- Neural Networks
-- Model Evaluation
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- TensorFlow
+- Keras
 
-➡️ https://github.com/YOURUSERNAME/airbnb-price-classification
+### Repository
+
+https://github.com/Mlars290/airbnb-price-classification-ml
 
 ---
 
 ## 🎧 Audio Environment Study
 
-Published undergraduate research analyzing how different audio environments affect productivity.
+Published undergraduate research studying how audio environments affect productivity.
 
-**Tech**
+### Techniques
 
 - R
 - ANOVA
+- Tukey HSD
 - ggplot2
 - Statistical Analysis
 
-➡️ https://github.com/YOURUSERNAME/study-focus-audio-portfolio
+Repository
+
+https://github.com/Mlars290/study-focus-audio-portfolio
 
 ---
 
 ## 😴 Sleep Duration Statistical Analysis
 
-Two-Way ANOVA examining stress level and BMI effects on sleep duration.
+Statistical research examining relationships between stress, BMI, and sleep duration.
 
-➡️ https://github.com/YOURUSERNAME/sleep-duration-statistical-analysis
+Repository
+
+https://github.com/Mlars290/sleep-duration-statistical-analysis
 
 ---
 
-## 📈 Metro Analytics Club Growth Case Study
+# 📰 Writing
 
-Case study documenting club growth, branding, analytics, marketing, leadership, and community engagement.
+I am a **Tech & Science Writer** for **The Metropolitan**.
 
-➡️ https://github.com/YOURUSERNAME/metro-analytics-club-growth-case-study
+I enjoy researching and writing about:
+
+- Artificial Intelligence
+- Data Science
+- Emerging Technology
+- AI Governance
+- Technology & Society
+
+## Featured Article
+
+### Back-to-School 2026: Navigating AI in College
+
+https://themetropolitan.metrostate.edu/back-to-school-2026-navigating-ai-in-college/
+
+📰 More articles
+
+https://themetropolitan.metrostate.edu/
+
+---
+
+# 🤖 Break Through Tech AI
+
+Currently developing skills in
+
+- Machine Learning
+- Neural Networks
+- TensorFlow
+- SQL
+- Deep Learning
+- Responsible AI
+- Model Evaluation
+- Feature Engineering
+- Cloud Computing
+
+---
+
+# 🔬 Research Interests
+
+- Explainable AI
+- Responsible AI
+- AI Governance
+- Machine Learning
+- Data Visualization
+- Statistical Modeling
+- Educational Technology
+- Behavioral Analytics
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### Data Science & Machine Learning
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-### Visualization
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ---
 
-# 📚 Publications & Research
+## Machine Learning
 
-📄 Published Undergraduate Research
+TensorFlow
 
-🎤 Metropolitan State Student Research Conference Presenter
+Keras
 
-📊 Statistical Analysis using R
+scikit-learn
 
-📈 Data Visualization
+pandas
 
-🧪 Experimental Design
+NumPy
 
 ---
 
-# 🏆 Awards & Achievements
+## Databases
 
-🥇 First Place — AIS Student Competition National Finals
+PostgreSQL
+
+MySQL
+
+SQLite
+
+Supabase
+
+---
+
+## Visualization
+
+Tableau
+
+Power BI
+
+SAP Analytics Cloud
+
+ggplot2
+
+Matplotlib
+
+---
+
+# 🏅 Awards
+
+🥇 First Place — AIS Student Chapter Leadership Conference
 
 🤖 Break Through Tech AI Fellow
 
 📄 Published Undergraduate Research
 
+📰 Tech & Science Writer
+
 🎤 Student Research Conference Presenter
 
 🏅 Dean's List
 
-⭐ Phi Theta Kappa Honor Society
-
----
-
-# 📜 Certifications
-
-✔ SAP Analytics Cloud
-
-✔ Excel Data Analysis
-
-✔ Machine Learning Foundations *(In Progress)*
+⭐ Phi Theta Kappa
 
 ---
 
 # 🌱 Currently Learning
 
+- Neural Networks
 - Deep Learning
-- Large Language Models (LLMs)
+- Azure
+- Large Language Models
 - SQL Optimization
-- Cloud Machine Learning
-- Azure AI
+- AI Governance
+- Production Machine Learning
 
 ---
 
@@ -173,34 +259,36 @@ Case study documenting club growth, branding, analytics, marketing, leadership, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mlars290&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlars290&layout=compact"/>
 
 </p>
-
----
-
-# 🔥 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact)](https://github.com/YOURUSERNAME)
-
----
-
-# 💡 Quote
-
-> *"Building AI that is accurate, transparent, and useful."*
-
----
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN)
-
-📧 YOUR-EMAIL
-
----
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mlars290&area=true"/>
+
 </p>
+
+---
+
+# 📫 Connect
+
+💼 LinkedIn
+
+📰 The Metropolitan
+
+💻 GitHub
+
+📧 Email
+
+---
+
+<div align="center">
+
+### "Building responsible AI through research, machine learning, and communication."
+
+⭐ Thanks for visiting my profile!
+
+</div>
