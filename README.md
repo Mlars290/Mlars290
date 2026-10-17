@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### a little data, a little design, a lot of curiosity ✧
+### ˚₊‧꒰ა a little data, a little design, a lot of curiosity ໒꒱‧₊˚
 
 B.S. Data Science student · Creative Director · AI Studio Fellow
 
@@ -18,6 +18,8 @@ B.S. Data Science student · Creative Director · AI Studio Fellow
 
 </div>
 
+<p align="center">୨୧ ──────────── ♡ ──────────── ୨୧</p>
+
 ## 🌷 hi, i'm Maria
 
 I'm studying **Data Science at Metropolitan State University**, while exploring how data, AI, design, and storytelling can work together.
@@ -25,6 +27,14 @@ I'm studying **Data Science at Metropolitan State University**, while exploring 
 I enjoy shaping ideas into things people can understand and use: a machine learning project, an intuitive interface, a visual identity, or a story that makes technology feel approachable. My interests span **applied AI, UX/UI, creative strategy, and visual content design**.
 
 Outside my data projects, you'll find me designing pastel visuals, experimenting with AI creative tools, and developing the characters and world of **Lil’ Jammies**. ♡
+
+<p align="center">
+  <img src="assets/marin-excited.gif" height="150" alt="Marin excited, surrounded by hearts and stars" />
+  &nbsp;&nbsp; ♡ &nbsp;&nbsp;
+  <img src="assets/marin-smile.gif" height="150" alt="Marin smiling" />
+</p>
+
+<p align="center"><i>learning, creating, and getting a little excited about every new idea ♡</i></p>
 
 ## 🪻 what i'm working on
 
@@ -56,6 +66,8 @@ My contributions included **product strategy, UX workflows, explainability and g
 | [Audio Environment Study](https://github.com/Mlars290/study-focus-audio-portfolio) | Focus and productivity across 87 study sessions; published undergraduate research | R, ggplot2, ANOVA, Tukey HSD |
 | [Sleep Duration Analysis](https://github.com/Mlars290/sleep-duration-statistical-analysis) | Relationships between stress, BMI category, and sleep duration | Statistical analysis, two-way ANOVA, visualization |
 
+<p align="center">୨୧ ──────────── ♡ ──────────── ୨୧</p>
+
 ## 🎨 my creative side
 
 I like helping brands and communities communicate through **consistent visuals, clear messaging, and thoughtful experiences**.
@@ -74,6 +86,12 @@ I like helping brands and communities communicate through **consistent visuals, 
 | Visual storytelling | Canva, content design, presentation design, technology writing |
 | Product & creative work | UX/UI, creative direction, product strategy, AI prompting, ComfyUI |
 | Development | Git, GitHub, Jupyter, Google Colab, PostgreSQL, HTML/CSS |
+
+<p align="center">
+  <img src="assets/marin-shy.webp" width="360" alt="Marin with a shy, surprised expression" />
+</p>
+
+<p align="center"><i>soft colors, big ideas, and a folder full of things i want to make ✧</i></p>
 
 ## 💌 let's connect
 
